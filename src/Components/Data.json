@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nom": "PHARMACIE DU CONSULAT",
+    "adresse" : "3 Résidence Adam, Rue Abou Bakr Seddiq, Marrakesh",
+    "laltitude": 31.6387527,
+    "longitude": -8.0137948,
+    "photo":"https://lh5.googleusercontent.com/p/AF1QipMUVpJo5L-JLQMutW6OkqtGLeSbkSHkNCo4GYL-=w408-h544-k-no",
+    "zone": {
+      "id": 1,
+      "nom": "ttt",
+      "ville": {
+        "id": 2,
+        "nom": "kech"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "nom": "PHARMACIE L'HOPITAL MILITAIRE",
+    "adresse" : " Bd Mohamed VI, Marrakech 40000",
+    "laltitude": 31.6363563,
+    "longitude":-8.045635,
+    "photo":"https://lh5.googleusercontent.com/p/AF1QipPvKN60JaUVgLt5_NF-BqxAZ5zjtGpDNETQ8EIm=s774-k-no",
+    "zone": {
+      "id": 1,
+      "nom": "Geuliz",
+      "ville": {
+        "id": 2,
+        "nom": " Marrakech"
+      }
+    }
+  }, {
+    "id": 3,
+    "nom": "PHARMACIE ABDELKRIM KHATTABI",
+    "adresse" : "154 Bd Abdelkrim Al Khattabi, Marrakech 40000, Marrakesh",
+    "z": 31.6365029,
+    "x": -8.0407278,
+    "y":16,
+    "photo":"https://lh5.googleusercontent.com/p/AF1QipPS9vo3okSttUHP77ZyJCY-KdZauKaYroIJEM5I=w408-h306-k-no",
+    "zone": {
+      "id": 1,
+      "nom": "Geuliz",
+      "ville": {
+        "id": 2,
+        "nom": "Marrakech"
+      }
+    }
+  }, 
+  {
+    "id": 4,
+    "nom": "PHARMACIE HANI",
+    "adresse" : "JXPV+F6Q, Rue Sourya, Marrakech 40000, Marrakesh",
+    "laltitude": 31.6322594,
+    "longitude": -8.0267894,
+    "photo":"https://lh5.googleusercontent.com/p/AF1QipMUVpJo5L-JLQMutW6OkqtGLeSbkSHkNCo4GYL-=w408-h544-k-no",
+    "zone": {
+      "id": 1,
+      "nom": "Geuliz",
+      "ville": {
+        "id": 2,
+        "nom": "Marrakech"
+      }
+    }
+  }, {
+    "id": 5,
+    "nom": "Pharmacie bassatine gueliz",
+    "adresse" : "Porte gueliz 2، 40000, Marrakesh",
+    "laltitude": 31.6284045,
+    "longitude": -8.0652014,
+    "photo":"https://lh5.googleusercontent.com/p/AF1QipPeK-eK2oPr71fNCYY0CP7T6SEeoEasDWQodxgs=w408-h306-k-no",
+    "zone": {
+      "id": 1,
+      "nom": "Lamhamid",
+      "ville": {
+        "id": 2,
+        "nom": " Marrakech"
+      }
+    }
+  }
+]
+ 
